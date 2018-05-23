@@ -6,6 +6,8 @@ if __name__ == "__main__":
     import sys
 
     # Accept 2 URLS from command line
+    # Format: python3 compareHeader.py [URL1] [URL2]
+    # Example: python3 compareHeader.py http://198.41.215.162 http://www.cloudflare.com
     if len(sys.argv) == 3:
         try:
             rG = requests.get(sys.argv[1])
