@@ -15,7 +15,7 @@ Code for sample website
 
 ## Installation
 ```
-git clone 
+git clone https://github.com/feliciahsieh/practice2.git
 ```
 
 ## Usage
