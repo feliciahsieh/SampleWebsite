@@ -26,4 +26,4 @@ python3 compareHeader.py http://198.41.215.162 http://www.cloudflare.com
 
 to compare the HTTP header options.
 
-<p align="center"><img src="images/compareHeaders.png" width="400px" /></p>
+<p align="center"><img src="images/compareHeaders.png" width="600px" /></p>
