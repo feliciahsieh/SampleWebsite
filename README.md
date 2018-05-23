@@ -1,6 +1,6 @@
 # SampleWebsite
 
-Code for sample website
+Code for a basic, sample website and a script to compare HTTP Header information.
 
 ## Table of Contents
 * [Requirements](#requirements)
