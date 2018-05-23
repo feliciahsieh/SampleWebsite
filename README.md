@@ -19,11 +19,15 @@ git clone https://github.com/feliciahsieh/SampleWebsite.git
 ```
 
 ## Usage
-For the python3 script, compareHeader.py, type
+The python3 script, compareHeader.py, will compare the HTTP Header info of two URLs provided by the user.
+The script format is:
+
+$ python3 compareHeader.py [URL1] [URL2]
+
 ```
-python3 compareHeader.py http://198.41.215.162 http://www.cloudflare.com
+$ python3 compareHeader.py http://198.41.215.162 http://www.cloudflare.com
 ```
 
-to compare the HTTP header options.
+Here's an example:
 
 <p align="center"><img src="images/compareHeaders.png" width="800px" /></p>
