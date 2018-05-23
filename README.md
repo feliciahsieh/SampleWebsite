@@ -1,4 +1,4 @@
-# practice2
+# SampleWebsite
 
 Code for sample website
 
@@ -15,7 +15,7 @@ Code for sample website
 
 ## Installation
 ```
-git clone https://github.com/feliciahsieh/practice2.git
+git clone https://github.com/feliciahsieh/SampleWebsite.git
 ```
 
 ## Usage
@@ -26,4 +26,4 @@ python3 compareHeader.py http://198.41.215.162 http://www.cloudflare.com
 
 to compare the HTTP header options.
 
-<p align="center"><img src="images/compareHeader.png" width="150px" /></p>
+<p align="center"><img src="images/compareHeaders.png" width="150px" /></p>
