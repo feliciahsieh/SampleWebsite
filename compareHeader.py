@@ -27,4 +27,4 @@ if __name__ == "__main__":
         except:
             sys.exit(0)
     else:
-        print("Please enter 2 URLs")
+        print("Please enter 2 URLs starting with http://[Your_URL]")
